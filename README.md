@@ -7,7 +7,7 @@ This package provides a simple interface to send prompts to the Grok AI (built b
 #### Custom Variables
 - **`grok-api-endpoint`**: 
   - Type: String
-  - Description: The API endpoint for Grok AI. Default is set to `"https://api.xai.com/grok"`.
+  - Description: The API endpoint for Grok AI. Default is set to `https://api.x.ai/v1`.
 
 - **`grok-api-key`**: 
   - Type: String
