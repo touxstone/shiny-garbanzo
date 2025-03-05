@@ -11,7 +11,7 @@
 (require 'url)
 (require 'json)
 
-(defcustom grok-api-endpoint "https://api.xai.com/grok"
+(defcustom grok-api-endpoint "https://api.x.ai/v1"
   "The API endpoint for Grok AI."
   :type 'string
   :group 'grok-prompt)
